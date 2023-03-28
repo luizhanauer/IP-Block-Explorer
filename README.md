@@ -11,7 +11,7 @@ Para usar a aplicação, primeiro é necessário clonar o repositório e instala
 
 
 ```
-git clone https://github.com/luizhanauer/ip-block-explorer.git 
+git clone https://github.com/luizhanauer/IP-Block-Explorer.git 
 ```
 ```
 cd ip-block-explorer 
