@@ -28,7 +28,7 @@ Para executar a aplicação, basta rodar o arquivo 'ip\_block\_explorer.py':
 Copy code
 
 ```
-python ip_block_explorer.py
+python3 ip_block_explorer.py
 ```
 
 A aplicação irá baixar o arquivo 'delegated-lacnic-extended-latest' automaticamente, e irá pedir ao usuário que digite o ASN (Autonomous System Number) que deseja pesquisar.
