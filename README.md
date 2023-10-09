@@ -14,7 +14,7 @@ Para usar a aplicação, primeiro é necessário clonar o repositório e instala
 git clone https://github.com/luizhanauer/IP-Block-Explorer.git 
 ```
 ```
-cd ip-block-explorer 
+cd IP-Block-Explorer
 ```
 ```
 pip install -r requirements.txt
